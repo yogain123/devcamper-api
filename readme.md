@@ -58,7 +58,7 @@ docgen build -i ~/Desktop/postmanexported.json -o ~/Desktop/index.html
 ```
 
 ## Security Measures
-- morgan
+- morgan (Logging)
 - express-mongo-sanitizer
 - helmet
 - xss-clean
