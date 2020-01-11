@@ -56,3 +56,12 @@ Creting index.html file
 ```
 docgen build -i ~/Desktop/postmanexported.json -o ~/Desktop/index.html
 ```
+
+## Security Measures
+- morgan
+- express-mongo-sanitizer
+- helmet
+- xss-clean
+- express-rate-limit
+- hpp
+- cors
