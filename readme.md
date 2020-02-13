@@ -56,6 +56,7 @@ Creting index.html file
 ```
 docgen build -i ~/Desktop/postmanexported.json -o ~/Desktop/index.html
 ```
+https://itnext.io/make-security-on-your-nodejs-api-the-priority-50da8dc71d68
 
 ## Security Measures
 - morgan (Logging)
